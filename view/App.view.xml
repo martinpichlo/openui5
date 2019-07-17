@@ -7,7 +7,7 @@
       press=".onShowHello"/>
    <Input
       value="{/recipient/name}"
-      description="{i18n>HelloTxt} {/recipient/name}"
+      description="{i18n>helloTxt} {/recipient/name}"
       valueLiveUpdate="true"
       width="60%"/>
 </mvc:View>
